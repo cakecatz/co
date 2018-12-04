@@ -10,7 +10,7 @@ git branch switcher
 
 ## Usage
 
-### [antibody](https://github.com/getantibody/antibody)\
+### [antibody](https://github.com/getantibody/antibody)
 
 ```bash
 antibody bundle cakecatz/co
