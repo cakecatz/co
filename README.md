@@ -15,3 +15,9 @@ git branch switcher
 ```bash
 antibody bundle cakecatz/co
 ```
+
+## Options
+
+| Option               | Description                                                                                                                                                     | Default value |
+| :------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| **`CO_PECO_FILTER`** | Set specific filter to `peco`. See list at peco's [--initial-filter](https://github.com/peco/peco#--initial-filter-ignorecasecasesensitivesmartcaseregexpfuzzy) | `IgnoreCase`  |
